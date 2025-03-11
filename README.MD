@@ -7,21 +7,23 @@
 - **遊戲名稱**：Bang!
 - **語言**：C 語言
 - **功能**：遊戲邏輯、角色初始化、卡牌操作等基本功能
-- **遊戲形式**：命令列
-
-![]()
+- **遊戲形式**：尚無圖形化介面，以命令列形式進行遊玩
 
 ## 目錄結構
 
 - `main.c`：遊戲主入口
 - `func.h`：遊戲功能函數宣告
-- `func.c`、`func.h`：遊戲功能實作
+- `func.c`：遊戲功能實作
+- `bang.exe`：遊戲檔案
 
 ## 編譯與運行
 
-編譯指令： gcc main.c func.c -o bang
+執行編譯指令： gcc main.c func.c -o bang
+
+就會產生 bang.exe
 
 運行指令：./bang
+
 
 ![alt text](Screenshot.png)
 
