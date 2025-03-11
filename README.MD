@@ -24,10 +24,9 @@
 
 運行指令：./bang
 
+![alt text](screenshot/Screenshot.png)
 
-![alt text](Screenshot.png)
-
-![alt text](Screenshot2.png)
+![alt text](screenshot/Screenshot2.png)
 
 ## 專案特色
 
